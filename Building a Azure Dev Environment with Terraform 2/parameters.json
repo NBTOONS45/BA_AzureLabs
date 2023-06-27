@@ -1,0 +1,27 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_BA_wvm_name": {
+            "value": null
+        },
+        "virtualMachines_balxvm_name": {
+            "value": null
+        },
+        "storageAccounts_basa123_name": {
+            "value": null
+        },
+        "networkInterfaces_BA_nic_name": {
+            "value": null
+        },
+        "networkInterfaces_BA_nic2_name": {
+            "value": null
+        },
+        "virtualNetworks_BA_network_name": {
+            "value": null
+        },
+        "networkSecurityGroups_BA_sg_name": {
+            "value": null
+        }
+    }
+}
