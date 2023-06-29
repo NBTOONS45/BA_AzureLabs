@@ -1,0 +1,24 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "storageAccounts_baakss1_name": {
+            "value": null
+        },
+        "managedClusters_BA_cluster_name": {
+            "value": null
+        },
+        "dataCollectionRules_MSCI_eastus_BA_cluster_name": {
+            "value": null
+        },
+        "workspaces_DefaultWorkspace_3a6c1aa9_d3d2_429e_aa5e_003bc92afadd_EUS_externalid": {
+            "value": null
+        },
+        "publicIPAddresses_92ea34d6_5c23_4655_a1e5_584ccf6e08fa_externalid": {
+            "value": null
+        },
+        "userAssignedIdentities_BA_cluster_agentpool_externalid": {
+            "value": null
+        }
+    }
+}
